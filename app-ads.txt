@@ -1,0 +1,3 @@
+# Xline Games app-ads.txt
+# AdMob hesabı açılınca AdMob'un verdiği satır buraya eklenecek, örnek biçim:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
